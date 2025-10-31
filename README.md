@@ -23,14 +23,14 @@ To practice nested and chained decision-making using conditional and logical ope
 
 ## Example Input/Output
 
-Enter any 3 numbers: 10 25 7  
-The second number 25 is the biggest number  
+1. Enter any 3 numbers: 10 25 7  
+   The second number 25 is the biggest number  
 
-Enter any 3 numbers: 45 12 9     
-The first number 45 is the biggest number  
+2. Enter any 3 numbers: 45 12 9     
+   The first number 45 is the biggest number  
 
-Enter any 3 numbers: 5 20 40  
-The third number 40 is the biggest number  
+3. Enter any 3 numbers: 5 20 40  
+   The third number 40 is the biggest number  
 
 ## Key Concepts Practiced
 
